@@ -1,0 +1,86 @@
+@charset "UTF-8";
+
+
+h1{
+	background-color:black;
+	text-align:right;
+	color:white;
+	
+	
+}
+p.fecha{
+
+  
+  font-weight: bold;
+  color: white;
+  font-size: 190%;  
+  letter-spacing: 5px;
+  text-align:center;
+  padding: 5px;
+	
+}
+time{
+	background-color: gray;
+}
+
+body{
+	
+	background-color:lightgray
+}
+
+hr.negro{
+	background-color:black;
+	height:3px;
+	margin-left: 20%;
+  margin-right: 20%;
+}
+
+hr.blanco{
+	background-color:white;
+	height:4px;
+	margin-left: 20%;
+  margin-right: 20%;
+}
+
+h2{
+	
+	 margin-left: 20%;
+  margin-right: 20%;
+}
+
+p{
+margin-left: 20%;
+  margin-right: 20%;	
+}
+
+.puesto{
+background-color:white;
+color:red;	
+}
+span{
+	font-variant: small-caps;
+}
+
+.sitio{
+	color:blue;
+}
+q{
+	font-size:150%;	
+}
+
+.pie{
+	background-color:white;
+	text-align:center;
+	display:inline-block;
+	
+}
+
+.fija{
+	position:fixed;
+	right:0;
+	bottom:0;
+	left:0;
+	width:150%;
+	height: 2em;
+	
+}
